@@ -10,6 +10,10 @@ const clearBtn = document.querySelector(".clear-btn");
 
 // edit option
 
+let edutElement;
+let editFlag = false;
+let editID = "";
+
 // ****** EVENT LISTENERS **********
 
 // ****** FUNCTIONS **********
